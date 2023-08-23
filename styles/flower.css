@@ -2,30 +2,37 @@ body {
     font-family: 'Open Sans', sans-serif;
     font-family: 'Lato', sans-serif;
 }
+
 header {
     background: rgba(229, 84, 115, 0.10);
 }
+
 nav {
     display: flex;
     gap: 95px;
 }
+
 .banner {
     padding: 100px 0px 80px 200px;
 }
+
 .banner-title {
     color: #272727;
     font-size: 80px;
     font-weight: 800;
 }
+
 .banner-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     padding-right: 170px;
 }
+
 .banner-img .contact {
     padding-right: 100px;
 }
+
 .btn-primary {
     border-radius: 8px;
     background: #E55473;
@@ -34,12 +41,16 @@ nav {
     font-size: 20px;
     font-weight: 700;
 }
+
 .feature-info {
     text-align: center;
     margin-top: 100px;
 }
+
 main {
     background: #FFF;
+}
+.feature {
     padding: 0px 240px;
 }
 .feature-title {
@@ -51,13 +62,12 @@ main {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
-    padding: 0px 400px; 
+    padding: 0px 400px;
 }
 .feature-img {
     display: flex;
-    gap: 25px; 
+    gap: 25px;
     padding: 30px 100px;
-   
 }
 .pngwing-6 {
     border-radius: 300px 300px 0px 0px;
@@ -67,7 +77,7 @@ main {
     width: 250px;
     padding: 75px 70px 0px 70px;
 }
-.pngwing-5{
+.pngwing-5 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
@@ -83,8 +93,44 @@ main {
     width: 230px;
     padding: 75px 70px 0px 70px;
 }
-.anchor-list > ul {
+.anchor-list>ul {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
+}
+.sale {
+    background: rgba(229, 84, 115, 0.05);
+    margin-top: 80px;
+    display: flex;
+}
+.sale-title {
+    padding: 230px 400px 0px 350px;
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+.parcentage {
+    color: #E55473;
+}
+.sale-descriptoion {
+    color: rgba(39, 39, 39, 0.60);
+    padding: 0px 400px 0px 300px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+}
+.btn {
+    padding: 0px 650px 130px 500px;
+}
+.btn-2 {
+    border-radius: 8px;
+    background: #E55473;
+    padding: 15px 30px;
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 700; 
+}
+.img-tag .img-8 {
+    width: 300px;
+    padding: 100px 280px 90px 0px;
 }
