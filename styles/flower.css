@@ -152,35 +152,42 @@ main {
     width: 300px;
     padding: 100px 280px 90px 0px;
 }
+
 .section-1 {
     margin-top: 80px;
     padding: 0px 240px;
 
 }
+
 .section-1-info {
     text-align: center;
 }
+
 .section-1-title {
     color: #272727;
     font-size: 40px;
     font-weight: 800;
 }
+
 .section-1-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     padding: 0px 400px;
 }
+
 .section-1-pic {
     display: flex;
     gap: 20px;
     margin-top: 30px;
 }
+
 .section-2 {
     background: url('../Flower\ Asset/Rectangle 9.png');
     margin: 80px 240px;
     background-repeat: no-repeat;
 }
+
 .section-2-info {
     text-align: center;
     padding: 110px 0px;
@@ -222,4 +229,35 @@ main {
     font-size: 20px;
     font-weight: 700;
     padding: 15px 20px;
+}
+
+footer {
+    background: #111010;
+}
+.footer-info{
+    text-align: center;
+    padding: 110px 400px;
+}
+.flower {
+    color: #E55473;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.shop {
+    color: #FFF;
+    font-size: 48px;
+    font-weight: 800;
+}
+
+.footer-description {
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 250px;
+}
+.time{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
 }
