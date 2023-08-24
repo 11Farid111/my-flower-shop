@@ -50,68 +50,83 @@ nav {
 main {
     background: #FFF;
 }
+
 .feature {
     padding: 0px 240px;
 }
+
 .feature-title {
     color: #272727;
     font-size: 30px;
     font-weight: 800;
 }
+
 .feature-description {
     color: rgba(39, 39, 39, 0.60);
     font-size: 18px;
     font-weight: 400;
     padding: 0px 400px;
 }
+
 .feature-img {
     display: flex;
     gap: 25px;
     padding: 30px 100px;
 }
+
 .pngwing-6 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(167, 33, 98, 0.15);
 }
+
 .pngwing-6 .img-6 {
     width: 250px;
     padding: 75px 70px 0px 70px;
 }
+
 .pngwing-5 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(5, 151, 160, 0.15);
 }
+
 .pngwing-5 .img-5 {
     width: 300px;
     padding: 60px 30px 0px 30px;
 }
+
 .pngwing-7 {
     border-radius: 300px 300px 0px 0px;
     background: rgba(71, 125, 17, 0.15);
 }
+
 .pngwing-7 .img-7 {
     width: 230px;
     padding: 75px 70px 0px 70px;
 }
+
 .anchor-list>ul {
     display: flex;
     justify-content: space-evenly;
     list-style: none;
 }
+
 .sale {
     background: rgba(229, 84, 115, 0.05);
     margin-top: 80px;
     display: flex;
 }
+
 .sale-title {
     padding: 230px 400px 0px 350px;
     color: #272727;
     font-size: 30px;
     font-weight: 800;
 }
+
 .parcentage {
     color: #E55473;
 }
+
 .sale-descriptoion {
     color: rgba(39, 39, 39, 0.60);
     padding: 0px 400px 0px 300px;
@@ -119,18 +134,49 @@ main {
     font-size: 18px;
     font-weight: 400;
 }
+
 .btn {
     padding: 0px 650px 130px 500px;
 }
+
 .btn-2 {
     border-radius: 8px;
     background: #E55473;
     padding: 15px 30px;
     color: #FFF;
     font-size: 15px;
-    font-weight: 700; 
+    font-weight: 700;
 }
+
 .img-tag .img-8 {
     width: 300px;
     padding: 100px 280px 90px 0px;
+}
+
+.section-1 {
+    margin-top: 80px;
+    padding: 0px 240px;
+
+}
+
+.section-1-info {
+    text-align: center;
+}
+
+.section-1-title {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.section-1-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    padding: 0px 400px;
+}
+.section-1-pic{
+    display: flex;
+    gap: 20px;
+    margin-top:30px;
 }
